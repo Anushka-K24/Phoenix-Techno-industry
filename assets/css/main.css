@@ -2693,6 +2693,11 @@ input[type="radio"]:focus + label:before {
   position: relative;
 }
 
+img {
+  height: 280px;
+  width: 40px;
+}
+
 .image img {
   display: block;
   /* height: 50%; */
